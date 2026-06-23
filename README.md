@@ -4,7 +4,7 @@ UniPatas é uma plataforma solidária de castração animal desenvolvida como Tr
 
 O sistema tem como objetivo auxiliar tutores de animais em situação de vulnerabilidade, permitindo o cadastro de animais que necessitam de castração e promovendo a conexão entre tutores, doadores e iniciativas de apoio à causa animal.
 
----
+
 
 ## Funcionalidades
 
@@ -24,7 +24,7 @@ O sistema tem como objetivo auxiliar tutores de animais em situação de vulnera
 - Registro de doações
 - Visualização das doações realizadas pelo usuário
 
----
+
 
 ## Tecnologias Utilizadas
 
@@ -35,7 +35,6 @@ O sistema tem como objetivo auxiliar tutores de animais em situação de vulnera
 - XAMPP
 - phpMyAdmin
 
----
 
 ## Estrutura do Projeto
 
@@ -54,7 +53,7 @@ unipatas/
 └── README.md
 ```
 
----
+
 
 ## Como Executar o Projeto
 
@@ -92,7 +91,7 @@ unipatas
 Importe o arquivo:
 
 ```text
-banco_unipatas.sql
+unipatas.sql
 ```
 
 ### 5. Executar o sistema
@@ -103,13 +102,12 @@ Acesse:
 http://localhost/unipatas
 ```
 
----
 
 ## Projeto Acadêmico
 
 Projeto desenvolvido para fins acadêmicos como Trabalho de Graduação do curso de Análise e Desenvolvimento de Sistemas.
 
----
+
 
 ## Desenvolvedoras
 
