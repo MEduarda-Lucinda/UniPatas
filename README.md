@@ -53,60 +53,9 @@ unipatas/
 └── README.md
 ```
 
-
-
-## Como Executar o Projeto
-
-### 1. Clonar ou baixar o projeto
-
-Copie a pasta do projeto para:
-
-```text
-xampp/htdocs/
-```
-
-### 2. Iniciar o XAMPP
-
-Inicie os serviços:
-
-- Apache
-- MySQL
-
-### 3. Criar o banco de dados
-
-Abra o phpMyAdmin:
-
-```text
-http://localhost/phpmyadmin
-```
-
-Crie o banco de dados:
-
-```sql
-unipatas
-```
-
-### 4. Importar o banco
-
-Importe o arquivo:
-
-```text
-unipatas.sql
-```
-
-### 5. Executar o sistema
-
-Acesse:
-
-```text
-http://localhost/unipatas
-```
-
-
 ## Projeto Acadêmico
 
 Projeto desenvolvido para fins acadêmicos como Trabalho de Graduação do curso de Análise e Desenvolvimento de Sistemas.
-
 
 
 ## Desenvolvedoras
